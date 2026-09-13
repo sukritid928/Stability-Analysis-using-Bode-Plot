@@ -9,6 +9,8 @@ Computer with MATLAB software
 
 <img width="1052" height="1397" alt="WhatsApp Image 2026-09-04 at 10 00 40 PM" src="https://github.com/user-attachments/assets/480a57fa-8249-474c-9aba-1687689cfcda" />
 
+<img width="1600" height="1099" alt="WhatsApp Image 2026-09-13 at 3 49 49 PM" src="https://github.com/user-attachments/assets/34414c8b-f1a5-4f0c-ba02-81ca2ba45838" />
+
 ## Procedure:
 	Open MATLAB software
 	Open a new script file.
