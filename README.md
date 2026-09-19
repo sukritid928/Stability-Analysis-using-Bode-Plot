@@ -26,6 +26,7 @@ Computer with MATLAB software
 ## Output:
 <img width="533" height="885" alt="Screenshot 2026-09-03 134149" src="https://github.com/user-attachments/assets/0be93549-015e-4ad4-9eee-d94eed438e64" />
 <img width="1557" height="880" alt="Screenshot 2026-09-03 134559" src="https://github.com/user-attachments/assets/eee98609-35cd-44d3-8378-bb057bccddfc" />
+<img width="1044" height="1600" alt="image" src="https://github.com/user-attachments/assets/edc388c0-cb6a-4971-af72-f88cdecf71c9" />
 
 
 ## Result:
